@@ -1,10 +1,12 @@
 [
   {
     "name" : "Gỗ 1",
-    "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg"
+    "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg",
+    "id" : "pbr_wood_1"
   },
   {
     "name" : "Gỗ 2",
-    "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg"
+    "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg",
+    "id" : "pbr_wood_2"
   }
 ]
