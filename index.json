@@ -2,11 +2,11 @@
   {
     "name" : "Gỗ 1",
     "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg",
-    "id" : "pbr_wood_1"
+    "id" : "lib_0001"
   },
   {
     "name" : "Gỗ 2",
     "thumbnail" : "/thumbnails/Wood030_PREVIEW.jpg",
-    "id" : "pbr_wood_2"
+    "id" : "lib_0002"
   }
 ]
